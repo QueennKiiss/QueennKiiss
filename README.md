@@ -2,6 +2,8 @@
 
 Some information about me coming soon...
 
+<br/>
+
 ## Languages & Tools 💻
 
 <p>
