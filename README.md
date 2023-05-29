@@ -11,13 +11,12 @@ Some information about me coming soon...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg", alt="git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg", alt="docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg", alt="docker" width="50" height="50"/>
-
 </p>
-
+<br/>
 ## Social 🗺️
 
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="my linkedin" height="auto" width="30"/> [LinkedIn](https://www.linkedin.com/in/marcosmaestroizquierdo/)
-
+<br/>
 ## Statistics 📊
 
 [![QueenKiss's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=QueennKiiss&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=400#gh-dark-mode-only)]
