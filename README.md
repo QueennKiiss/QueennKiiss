@@ -25,5 +25,5 @@ Some information about me coming soon...
 
 ## Statistics 📊
 
-[![QueenKiss's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=QueennKiiss&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=400#gh-dark-mode-only)]
+[QueenKiss's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=QueennKiiss&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=400#gh-dark-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=QueennKiiss&theme=dark&hide_border=true)](https://git.io/streak-stats)
