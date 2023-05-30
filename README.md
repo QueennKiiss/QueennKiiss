@@ -1,5 +1,7 @@
 <h1 align="center">Hello, I'm Marcos 👋</h1>
 
+<h2 align="center">About me</h1>
+
 Some information about me coming soon...
 
 <br/>
