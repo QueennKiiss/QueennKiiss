@@ -1,4 +1,4 @@
-# Hello, I'm Marcos 👋
+<h1 align="center">Hello, I'm Marcos 👋</h1>
 
 Some information about me coming soon...
 
