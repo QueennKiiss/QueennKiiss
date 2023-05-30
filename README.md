@@ -6,7 +6,7 @@ Some information about me coming soon...
 
 <br/>
 
-## Languages & Tools 💻
+## Languages & Tools - 💻
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg", alt="python" width="50" height="50"/>
@@ -19,13 +19,13 @@ Some information about me coming soon...
 
 <br/>
 
-## Social 🗺️
+## Social - 🗺️
 
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="my linkedin" height="auto" width="30"/> [LinkedIn](https://www.linkedin.com/in/marcosmaestroizquierdo/)
 
 <br/>
 
-## Statistics 📊
+## Statistics - 📊
 
 <!--- [![QueenKiss's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=QueennKiiss&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=400#gh-dark-mode-only)](https://github.com/QueennKiiss/QueennKiiss#gh-dark-mode-only) --->
 <!--- [![GitHub Streak](https://streak-stats.demolab.com/?user=QueennKiiss&theme=dark&hide_border=true)](https://git.io/streak-stats) --->
