@@ -5,6 +5,7 @@
 Some information about me coming soon...
 
 <br/>
+<hr>
 
 ## Languages - 💻
 
@@ -15,6 +16,10 @@ Some information about me coming soon...
 
 ![html](https://img.shields.io/badge/html-E34F26?logo=HTML5&style=for-the-badge&logoColor=white)
 ![css](https://img.shields.io/badge/css-1572B6?logo=CSS3&style=for-the-badge&logoColor=white)
+
+<br/>
+
+<hr>
 
 ## OS & Tools
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
@@ -40,9 +45,13 @@ Some information about me coming soon...
 
 <br/>
 
+<hr>
+
 ## Social - 🗺️
 
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="my linkedin" height="auto" width="30"/> [LinkedIn](https://www.linkedin.com/in/marcosmaestroizquierdo/)
+
+
 
 <br/>
 
