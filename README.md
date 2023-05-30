@@ -66,8 +66,7 @@ Some information about me coming soon...
 <h2 align="center"> Contact - 🗺️ </h2>
 
 <p align="center">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="my linkedin" height="auto" width="30"/> 
-  <a href="https://www.linkedin.com/in/marcosmaestroizquierdo/" style="background=blue">[marcosmaestroizquierdo]</a>
+  <a target="_blank"href="https://www.linkedin.com/in/marcosmaestroizquierdo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!--   [LinkedIn](https://www.linkedin.com/in/marcosmaestroizquierdo/) -->
 </p>
 
