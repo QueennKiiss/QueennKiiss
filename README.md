@@ -28,5 +28,6 @@ Some information about me coming soon...
 <!--- [![QueenKiss's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=QueennKiiss&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=400#gh-dark-mode-only)](https://github.com/QueennKiiss/QueennKiiss#gh-dark-mode-only) --->
 <!--- [![GitHub Streak](https://streak-stats.demolab.com/?user=QueennKiiss&theme=dark&hide_border=true)](https://git.io/streak-stats) --->
 <!--- [![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=darcula&border_radius=5&mode=weekly)](https://git.io/streak-stats) --->
-<!---[![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=python-dark&border_radius=5&mode=weekly)](https://git.io/streak-stats) --->
-[![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=gruvbox-duo)](https://git.io/streak-stats)
+<!---[![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=python-dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=gruvbox-duo)](https://git.io/streak-stats) --->
+[![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=city-lights)](https://git.io/streak-stats)
