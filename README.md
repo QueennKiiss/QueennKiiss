@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/QueennKiiss/QueennKiiss/raw/main/Hi I'm Marcos.gif" alt="header"/>
+  <img src="https://github.com/QueennKiiss/QueennKiiss/raw/main/header_large.gif" alt="header"/>
 </div>
 
 <!-- <h1 align="center">Hello, I'm Marcos 👋</h1> -->
