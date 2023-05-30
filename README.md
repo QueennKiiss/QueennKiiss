@@ -11,13 +11,20 @@ Some information about me coming soon...
 <h2 align="center"> Languages - 💻 </h2>
 
 <p align="center">
-![python](https://img.shields.io/badge/-python-3776AB?logo=Python&style=for-the-badge&logoColor=white)
-![docker](https://img.shields.io/badge/-docker-26689A?logo=docker&style=for-the-badge&logoColor=white)
+  <img src="https://img.shields.io/badge/-python-3776AB?logo=Python&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-docker-26689A?logo=docker&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://img.shields.io/badge/html-E34F26?logo=HTML5&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css-1572B6?logo=CSS3&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  ![python](https://img.shields.io/badge/-python-3776AB?logo=Python&style=for-the-badge&logoColor=white)
+  ![docker](https://img.shields.io/badge/-docker-26689A?logo=docker&style=for-the-badge&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white)
 
-![html](https://img.shields.io/badge/html-E34F26?logo=HTML5&style=for-the-badge&logoColor=white)
-![css](https://img.shields.io/badge/css-1572B6?logo=CSS3&style=for-the-badge&logoColor=white)
+  ![html](https://img.shields.io/badge/html-E34F26?logo=HTML5&style=for-the-badge&logoColor=white)
+  ![css](https://img.shields.io/badge/css-1572B6?logo=CSS3&style=for-the-badge&logoColor=white)
 </p>
 
 <br/>
