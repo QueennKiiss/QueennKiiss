@@ -27,7 +27,7 @@ Some information about me coming soon...
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 
 ![robotframework](https://img.shields.io/badge/-robotframework-000000?logo=robotframework&style=for-the-badge&logoColor=white)
-![flask](https://img.shields.io/badge/-flask-lightgrea?logo=Flask&style=for-the-badge&logoColor=black)
+![flask](https://img.shields.io/badge/-flask-lightgray?logo=Flask&style=for-the-badge&logoColor=black)
 
 <!---<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg", alt="python" width="50" height="50"/>
