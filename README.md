@@ -29,26 +29,26 @@ Some information about me coming soon...
 <h2 align="center"> OS & Tools </h2>
 
 <p align="center">
-<img src="" />&nbsp;&nbsp;&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
+<img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black" />&nbsp;&nbsp;&nbsp;
+<!-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black) -->
 </p>
 <p align="center">
-<img src="" />&nbsp;&nbsp;&nbsp;
-<img src="" />&nbsp;&nbsp;&nbsp;
-<img src="" />&nbsp;&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-robotframework-000000?logo=robotframework&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-flask-f2f3f4?logo=Flask&style=for-the-badge&logoColor=black" />&nbsp;&nbsp;&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![robotframework](https://img.shields.io/badge/-robotframework-000000?logo=robotframework&style=for-the-badge&logoColor=white)
-![flask](https://img.shields.io/badge/-flask-f2f3f4?logo=Flask&style=for-the-badge&logoColor=black)
+![flask](https://img.shields.io/badge/-flask-f2f3f4?logo=Flask&style=for-the-badge&logoColor=black) -->
 </p>
 <p align="center">
-<img src="" />&nbsp;&nbsp;&nbsp;
-<img src="" />&nbsp;&nbsp;&nbsp;
-<img src="" />&nbsp;&nbsp;&nbsp;
-<img src="" />&nbsp;&nbsp;&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-ECD53F?logo=pycharm&style=for-the-badge&logoColor=black)
+<img src="https://img.shields.io/badge/pycharm-ECD53F?logo=pycharm&style=for-the-badge&logoColor=black" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-SublimeText-000000?logo=sublimetext&style=for-the-badge&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-gitkraken-179287?logo=gitkraken&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<!-- ![PyCharm](https://img.shields.io/badge/pycharm-ECD53F?logo=pycharm&style=for-the-badge&logoColor=black)
 ![atom](https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white)
 ![Sublime](https://img.shields.io/badge/-SublimeText-000000?logo=sublimetext&style=for-the-badge&logoColor=yellow)
-![GitKraken](https://img.shields.io/badge/-gitkraken-179287?logo=gitkraken&style=for-the-badge&logoColor=white)
+![GitKraken](https://img.shields.io/badge/-gitkraken-179287?logo=gitkraken&style=for-the-badge&logoColor=white) -->
 </p>
 <!---<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg", alt="python" width="50" height="50"/>
@@ -66,7 +66,9 @@ Some information about me coming soon...
 <h2 align="center"> Social - 🗺️ </h2>
 
 <p align="center">
-- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="my linkedin" height="auto" width="30"/> [LinkedIn](https://www.linkedin.com/in/marcosmaestroizquierdo/)
+- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="my linkedin" height="auto" width="30"/> 
+  <a href="https://www.linkedin.com/in/marcosmaestroizquierdo/">
+<!--   [LinkedIn](https://www.linkedin.com/in/marcosmaestroizquierdo/) -->
 </p>
 
 <br/>
