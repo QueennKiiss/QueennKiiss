@@ -28,8 +28,8 @@ Some information about me coming soon...
 ![atom](https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white)
 ![Sublime](https://img.shields.io/badge/-SublimeText-000000?logo=sublimetext&style=for-the-badge&logoColor=yellow)
 
-
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
+![GitKraken](https://img.shields.io/badge/-gitkraken-179287?logo=gitkraken&style=for-the-badge&logoColor=white)
 
 ![robotframework](https://img.shields.io/badge/-robotframework-000000?logo=robotframework&style=for-the-badge&logoColor=white)
 ![flask](https://img.shields.io/badge/-flask-f2f3f4?logo=Flask&style=for-the-badge&logoColor=black)
@@ -51,8 +51,6 @@ Some information about me coming soon...
 
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="my linkedin" height="auto" width="30"/> [LinkedIn](https://www.linkedin.com/in/marcosmaestroizquierdo/)
 
-
-
 <br/>
 
 ## Statistics - 📊
@@ -63,3 +61,10 @@ Some information about me coming soon...
 <!---[![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=python-dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=gruvbox-duo)](https://git.io/streak-stats) --->
 [![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=city-lights)](https://git.io/streak-stats)
+
+<br/>
+
+<hr>
+
+![](https://komarev.com/ghpvc/?username=QueennKiiss&style=flat-square&label=Views)
+![](https://badges.pufler.dev/visits/QueennKiiss/QueennKiiss?color=black&logo=github&style=flat-square)
