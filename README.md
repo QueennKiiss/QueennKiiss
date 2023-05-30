@@ -29,14 +29,22 @@ Some information about me coming soon...
 <h2 align="center"> OS & Tools </h2>
 
 <p align="center">
+<img src="" />&nbsp;&nbsp;&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 </p>
 <p align="center">
+<img src="" />&nbsp;&nbsp;&nbsp;
+<img src="" />&nbsp;&nbsp;&nbsp;
+<img src="" />&nbsp;&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![robotframework](https://img.shields.io/badge/-robotframework-000000?logo=robotframework&style=for-the-badge&logoColor=white)
 ![flask](https://img.shields.io/badge/-flask-f2f3f4?logo=Flask&style=for-the-badge&logoColor=black)
 </p>
 <p align="center">
+<img src="" />&nbsp;&nbsp;&nbsp;
+<img src="" />&nbsp;&nbsp;&nbsp;
+<img src="" />&nbsp;&nbsp;&nbsp;
+<img src="" />&nbsp;&nbsp;&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-ECD53F?logo=pycharm&style=for-the-badge&logoColor=black)
 ![atom](https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white)
 ![Sublime](https://img.shields.io/badge/-SublimeText-000000?logo=sublimetext&style=for-the-badge&logoColor=yellow)
@@ -71,7 +79,8 @@ Some information about me coming soon...
 <!--- [![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=darcula&border_radius=5&mode=weekly)](https://git.io/streak-stats) --->
 <!---[![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=python-dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=gruvbox-duo)](https://git.io/streak-stats) --->
-[![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=city-lights)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=QueennKiiss&theme=city-lights" />&nbsp;&nbsp;&nbsp;
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=city-lights)](https://git.io/streak-stats) -->
 </p>
 
 <br/>
@@ -79,6 +88,8 @@ Some information about me coming soon...
 <hr>
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=QueennKiiss&style=flat-square&label=Views)
-![](https://badges.pufler.dev/visits/QueennKiiss/QueennKiiss?color=black&logo=github&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=QueennKiiss&style=flat-square&label=Views" />&nbsp;&nbsp;&nbsp;
+  <img src="https://badges.pufler.dev/visits/QueennKiiss/QueennKiiss?color=black&logo=github&style=flat-square" />&nbsp;&nbsp;&nbsp;
+<!-- ![](https://komarev.com/ghpvc/?username=QueennKiiss&style=flat-square&label=Views) -->
+<!-- ![](https://badges.pufler.dev/visits/QueennKiiss/QueennKiiss?color=black&logo=github&style=flat-square) -->
 </p>
