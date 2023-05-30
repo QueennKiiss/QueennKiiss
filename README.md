@@ -63,16 +63,18 @@ Some information about me coming soon...
 
 <hr>
 
-<h2 align="center"> Social - 🗺️ </h2>
+<h2 align="center"> Contact - 🗺️ </h2>
 
 <p align="center">
-- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="my linkedin" height="auto" width="30"/> 
-  <a href="https://www.linkedin.com/in/marcosmaestroizquierdo/">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="my linkedin" height="auto" width="30"/> 
+  <a href="https://www.linkedin.com/in/marcosmaestroizquierdo/">[LinkedIn]</a>
 <!--   [LinkedIn](https://www.linkedin.com/in/marcosmaestroizquierdo/) -->
 </p>
 
 <br/>
 
+<hr>
+  
 <h2 align="center"> Statistics - 📊 </h2>
 
 <p align="center">
