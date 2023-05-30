@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/QueennKiiss/QueennKiiss/raw/main/Hi I'm Marcos.gif" alt="header"/>
+</div>
+
 <h1 align="center">Hello, I'm Marcos 👋</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Robot+Mono&weight=700&size=30&duration=3000&pause=1000&color=5DA3C3&background=EFFEFF83&center=true&vCenter=true&width=1000&height=100&lines=Hello+I'm+Marcos;Python+Software+Developer" alt="Typing SVG" /></a>
