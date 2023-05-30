@@ -30,4 +30,4 @@ Some information about me coming soon...
 <!--- [![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=darcula&border_radius=5&mode=weekly)](https://git.io/streak-stats) --->
 <!---[![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=python-dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=gruvbox-duo)](https://git.io/streak-stats) --->
-[![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=city-lights)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=QueennKiiss&theme=icegray)](https://git.io/streak-stats)
