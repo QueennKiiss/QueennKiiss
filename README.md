@@ -24,14 +24,14 @@ Some information about me coming soon...
 ## OS & Tools
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
+![robotframework](https://img.shields.io/badge/-robotframework-000000?logo=robotframework&style=for-the-badge&logoColor=white)
+![flask](https://img.shields.io/badge/-flask-f2f3f4?logo=Flask&style=for-the-badge&logoColor=black)
+
 ![PyCharm](https://img.shields.io/badge/pycharm-ECD53F?logo=pycharm&style=for-the-badge&logoColor=black)
 ![atom](https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white)
 ![Sublime](https://img.shields.io/badge/-SublimeText-000000?logo=sublimetext&style=for-the-badge&logoColor=yellow)
 ![GitKraken](https://img.shields.io/badge/-gitkraken-179287?logo=gitkraken&style=for-the-badge&logoColor=white)
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
-![robotframework](https://img.shields.io/badge/-robotframework-000000?logo=robotframework&style=for-the-badge&logoColor=white)
-![flask](https://img.shields.io/badge/-flask-f2f3f4?logo=Flask&style=for-the-badge&logoColor=black)
 
 <!---<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg", alt="python" width="50" height="50"/>
