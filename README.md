@@ -67,7 +67,7 @@ Some information about me coming soon...
 
 <p align="center">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="my linkedin" height="auto" width="30"/> 
-  <a href="https://www.linkedin.com/in/marcosmaestroizquierdo/">[LinkedIn]</a>
+  <a href="https://www.linkedin.com/in/marcosmaestroizquierdo/" background="blue">[marcosmaestroizquierdo]</a>
 <!--   [LinkedIn](https://www.linkedin.com/in/marcosmaestroizquierdo/) -->
 </p>
 
