@@ -11,15 +11,15 @@ Some information about me coming soon...
 <h2 align="center"> Languages - 💻 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-python-3776AB?logo=Python&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-docker-26689A?logo=docker&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-python-3776AB?logo=Python&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-docker-26689A?logo=docker&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
 </p>
 <p align="center">  
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
 </p>
 <p align="center">  
-  <img src="https://img.shields.io/badge/html-E34F26?logo=HTML5&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css-1572B6?logo=CSS3&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/html-E34F26?logo=HTML5&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css-1572B6?logo=CSS3&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <br/>
@@ -29,22 +29,22 @@ Some information about me coming soon...
 <h2 align="center"> OS & Tools </h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black" />&nbsp;&nbsp;
 <!-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black) -->
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-robotframework-000000?logo=robotframework&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-flask-f2f3f4?logo=Flask&style=for-the-badge&logoColor=black" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-robotframework-000000?logo=robotframework&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-flask-f2f3f4?logo=Flask&style=for-the-badge&logoColor=black" />&nbsp;&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![robotframework](https://img.shields.io/badge/-robotframework-000000?logo=robotframework&style=for-the-badge&logoColor=white)
 ![flask](https://img.shields.io/badge/-flask-f2f3f4?logo=Flask&style=for-the-badge&logoColor=black) -->
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/pycharm-ECD53F?logo=pycharm&style=for-the-badge&logoColor=black" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-SublimeText-000000?logo=sublimetext&style=for-the-badge&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-gitkraken-179287?logo=gitkraken&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/pycharm-ECD53F?logo=pycharm&style=for-the-badge&logoColor=black" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-SublimeText-000000?logo=sublimetext&style=for-the-badge&logoColor=yellow" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-gitkraken-179287?logo=gitkraken&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
 <!-- ![PyCharm](https://img.shields.io/badge/pycharm-ECD53F?logo=pycharm&style=for-the-badge&logoColor=black)
 ![atom](https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white)
 ![Sublime](https://img.shields.io/badge/-SublimeText-000000?logo=sublimetext&style=for-the-badge&logoColor=yellow)
@@ -66,7 +66,7 @@ Some information about me coming soon...
 <h2 align="center"> Contact - 🗺️ </h2>
 
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/marcosmaestroizquierdo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/marcosmaestroizquierdo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
 <!--   [LinkedIn](https://www.linkedin.com/in/marcosmaestroizquierdo/) -->
 </p>
 
