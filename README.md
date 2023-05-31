@@ -70,9 +70,8 @@ Some information about me coming soon...
 <h2 align="center"> Contact - 🗺️ </h2>
 
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/marcosmaestroizquierdo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a target="_blank"href="www.mmaestroizquierdo@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<!--   [LinkedIn](https://www.linkedin.com/in/marcosmaestroizquierdo/) -->
+  <a target="_blank" href="https://www.linkedin.com/in/marcosmaestroizquierdo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a target="_blank" href="mailto:mmaestroizquierdo@gmail.com?subject=Hello%20Marcos,%20From%20Github"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 </p>
 
 <br/>
